@@ -17,9 +17,9 @@ sudo apt-get update
 sudo apt install build-essential
 sudo apt install libgl1-mesa-dev 
 sudo apt install libglu1-mesa-dev
-sudo apt install assimp libassimp-dev
-sudo apt install libglm libglm-dev
-sudo apt install libglfw libglfw3-dev
+sudo apt install libassimp-dev
+sudo apt install libglm-dev
+sudo apt install libglfw3-dev
 sudo apt install libstb-dev
 
 
