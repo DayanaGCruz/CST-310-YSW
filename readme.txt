@@ -31,7 +31,7 @@ Verify that all header files and libs for these installations are in /usr/includ
 	Language -> C/C++
 	Specification -> OpenGL
 	Profile -> Core
-	API -> gl -> Version 3.0
+	API -> gl -> Version 3.3
 	Generate a loader -> True
 	-> Generate
 	Place glad.c in /ysw/src/ if not already present
